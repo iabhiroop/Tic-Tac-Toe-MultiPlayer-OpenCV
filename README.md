@@ -24,7 +24,7 @@ The game is easy to play and can be enjoyed by people of all ages. The game feat
   - Allows you to see the object tracer while playing to confirm the position of the pointer.
 
 ### Installation
-Install the unpuzzle repository by following the instructions in the repository.
+Install the Tic-Tac-Toe repository by following the instructions in the repository.
 
 Install the required Python libraries using the following command:
 ```pip install opencv numpy```
